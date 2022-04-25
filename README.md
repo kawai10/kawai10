@@ -1,7 +1,7 @@
 # Seong Hun Cho
 ## Backend developer
 
-:star: SNS list :star:    
+<center>:star: SNS list :star:    
 <a href="https://www.instagram.com/climb_joel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>     
       
 :computer: Tech Stack    
@@ -20,3 +20,4 @@
 <a href="expressjs.com" target="_blank"><img src="https://img.shields.io/badge/expressJs-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <a href="https://nestjs.com" target="_blank"><img src="https://img.shields.io/badge/NestJs]-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
 <a href="https://jestjs.io" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>
+</center>
