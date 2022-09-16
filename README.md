@@ -3,7 +3,7 @@
         
         
 :star: SNS list :star:          
-<a href="https://www.instagram.com/climb_joel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>     
+<a href="https://www.instagram.com/seong_hun_climb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>     
 
 :computer: Tech Stack        
 :arrow_forward: Things I use as my main     
