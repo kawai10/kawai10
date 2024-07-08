@@ -22,7 +22,5 @@
 <a href="https://nestjs.com" target="_blank"><img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
 <a href="https://jestjs.io" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>         
       
-![trophy](https://github-profile-trophy.vercel.app/?username=kawai10)      
-![kawai10's github stats](https://github-readme-stats.vercel.app/api?username=kawai10&theme=nord&show_icons=true)
-[![kawai10's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kawai10&show_icons=true&hide_border=true&layout=compact&theme=nord)](https://github.com/kawai10)       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawai10)](https://github.com/anuraghazra/github-readme-stats)
 </div>
